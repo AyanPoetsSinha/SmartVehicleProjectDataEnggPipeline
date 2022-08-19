@@ -1,0 +1,9 @@
+{
+	"name": "ayanprojectADF11000",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e33fda99-0c56-49cf-96d3-7179b1bd57d5",
+		"tenantId": "ab12311a-f574-487a-9d43-5e855802d6cf"
+	}
+}
